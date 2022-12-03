@@ -7,4 +7,5 @@ dependencies:
     - numpy==1.23.*
     - seaborn==0.12.*
     - jupyterlab==3.4.*
+    - stable-baselines3[extra]
     - -e .
