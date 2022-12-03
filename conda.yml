@@ -6,4 +6,5 @@ dependencies:
     - jupyterlab==3.4.*
     - stable-baselines3[extra]==1.0.*
     - gym==0.18.*
+    - tensorflow==2.11.*
     # - -e .
