@@ -1,11 +1,9 @@
-name: env-template
+name: cart-pole
 dependencies:
   - python=3.9
   - pip
   - pip:
-    - pandas==1.5.*
-    - numpy==1.23.*
-    - seaborn==0.12.*
     - jupyterlab==3.4.*
-    - stable-baselines3[extra]
-    - -e .
+    - stable-baselines3[extra]==1.0.*
+    - gym==0.18.*
+    # - -e .
