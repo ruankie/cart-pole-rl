@@ -10,6 +10,7 @@ The classic cart-pole control problem solved using Stable Baselines 3 and OpenAI
 conda env create -f conda.yml
 conda activate cart-pole
 ```
+2. Navigate to notebooks and explore them (`./notebooks/*.ipynb`)
 
 ## References
 - https://www.youtube.com/watch?v=Mut_u40Sqz4&t=6068s
